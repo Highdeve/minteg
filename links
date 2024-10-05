@@ -1,0 +1,85 @@
+{
+  "ChannelsData":[
+    
+    {
+      "CategoryName":"Premier League",
+      "CategoryLogo":"https://hamkho.host/logo/pl.png",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://hamkho.host/logo/pl.png",
+          "ChannelName":"Crystal Palace vs Liverpool",
+          "ChannelLink":"https://www.kool.to/play/3640268356/index.m3u8",
+          "Play_In":"app"},
+          {
+          "ChannelImage":"https://hamkho.host/logo/pl.png",
+          "ChannelName":"Man City vs Fulham",
+          "ChannelLink":"https://www.kool.to/play/1665920101/index.m3u8",
+          "Play_In":"app"},
+          {
+          "ChannelImage":"https://hamkho.host/logo/pl.png",
+          "ChannelName":"Arsenal vs Southampton",
+          "ChannelLink":"https://www.kool.to/play/3271278010/index.m3u8",
+          "Play_In":"app"},
+          {
+          "ChannelImage":"https://hamkho.host/logo/pl.png",
+          "ChannelName":"Everton vs Newcastle",
+          "ChannelLink":"https://www.kool.to/play/1079620770/index.m3u8",
+          "Play_In":"app"}
+        ]
+    },
+    {
+      "CategoryName":"LaLiga",
+      "CategoryLogo":"https://hamkho.host/logo/ll.png",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://hamkho.host/logo/ll.png",
+          "ChannelName":"Real Madrid vs Villarreal",
+          "ChannelLink":"https://www.kool.to/play/4254563788/index.m3u8",
+          "Play_In":"app"},
+          {
+          "ChannelImage":"https://hamkho.host/logo/ll.png",
+          "ChannelName":"Real Madrid vs Villarreal",
+          "ChannelLink":"https://www.kool.to/play/3938278699/index.m3u8",
+          "Play_In":"app"},
+          {
+          "ChannelImage":"https://hamkho.host/logo/ll.png",
+          "ChannelName":"Real Madrid vs Villarreal",
+          "ChannelLink":"https://www.kool.to/play/75819853/index.m3u8",
+          "Play_In":"app"}
+        ]
+    },
+    {
+      "CategoryName":"Serie A",
+      "CategoryLogo":"https://hamkho.host/logo/sa.png",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://hamkho.host/logo/sa.png",
+          "ChannelName":"Internazionale vs Torino",
+          "ChannelLink":"https://www.kool.to/play/3640268356/index.m3u8",
+          "Play_In":"app"}
+        ]
+    },
+    {
+      "CategoryName":"Ligue 1",
+      "CategoryLogo":"https://hamkho.host/logo/l1.jpg",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://hamkho.host/logo/l1.jpg",
+          "ChannelName":"Rennes vs Monaco",
+          "ChannelLink":"https://www.kool.to/play/3769189460/index.m3u8",
+          "Play_In":"app"}
+        ]
+    },
+    {
+      "CategoryName":"Bundesliga",
+      "CategoryLogo":"https://hamkho.host/logo/bl.png",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://hamkho.host/logo/bl.png",
+          "ChannelName":"Bayer Leverkusen vs Holstein Kiel",
+          "ChannelLink":"https://www.kool.to/play/3224854795/index.m3u8",
+          "Play_In":"app"}
+        ]
+    }
+    ]
+}
