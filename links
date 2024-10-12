@@ -81,17 +81,5 @@
           "ChannelLink":"https://www.kool.to/play/3567590597/index.m3u8",
           "Play_In":"app"}
         ]
-    },
-    {
-      "CategoryName":"Bundesliga",
-      "CategoryLogo":"https://hamkho.host/logo/bl.png",
-      "CategoryChannels":[
-          {
-          "ChannelImage":"https://hamkho.host/logo/bl.png",
-          "ChannelName":"",
-          "ChannelLink":"https://www.kool.to/play/1978761461/index.m3u8",
-          "Play_In":"app"}
-        ]
     }
-    ]
 }
