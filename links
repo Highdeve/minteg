@@ -1,27 +1,50 @@
 {
   "ChannelsData":[
+    
+    {
+      "CategoryName":"Nations League",
+      "CategoryLogo":"https://image.discovery.indazn.com/ca/v2/ca/image?id=6b91f3e5-6084-45c6-8f10-5ee977fdcc80&quality=70",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://image.discovery.indazn.com/ca/v2/ca/image?id=6b91f3e5-6084-45c6-8f10-5ee977fdcc80&quality=70",
+          "ChannelName":"Croatia vs Scotland",
+          "ChannelLink":"https://www.kool.to/play/2183738096/index.m3u8",
+          "Play_In":"app"},
+          {
+          "ChannelImage":"https://image.discovery.indazn.com/ca/v2/ca/image?id=6b91f3e5-6084-45c6-8f10-5ee977fdcc80&quality=70",
+          "ChannelName":"Spain vs Denmark",
+          "ChannelLink":"https://www.kool.to/play/2021291682/index.m3u8",
+          "Play_In":"app"},
+          {
+          "ChannelImage":"https://image.discovery.indazn.com/ca/v2/ca/image?id=6b91f3e5-6084-45c6-8f10-5ee977fdcc80&quality=70",
+          "ChannelName":"Serbia vs Switzerland",
+          "ChannelLink":"https://www.kool.to/play/1096883544/index.m3u8",
+          "Play_In":"app"},
+          {
+          "ChannelImage":"https://image.discovery.indazn.com/ca/v2/ca/image?id=6b91f3e5-6084-45c6-8f10-5ee977fdcc80&quality=70",
+          "ChannelName":"Poland vs Portugal",
+          "ChannelLink":"https://www.kool.to/play/1394401047/index.m3u8",
+          "Play_In":"app"}
+        ]
+    },
+    {
+      "CategoryName":"Can Qualifying",
+      "CategoryLogo":"https://media.mehrnews.com/d/2024/06/12/3/5024711.jpg?ts=1718200413609",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://media.mehrnews.com/d/2024/06/12/3/5024711.jpg?ts=1718200413609",
+          "ChannelName":"Morocco vs Central African Republic",
+          "ChannelLink":"https://www.kool.to/play/2727132226/index.m3u8",
+          "Play_In":"app"}
+        ]
+    },
     {
       "CategoryName":"Premier League",
       "CategoryLogo":"https://hamkho.host/logo/pl.png",
       "CategoryChannels":[
           {
           "ChannelImage":"https://hamkho.host/logo/pl.png",
-          "ChannelName":"Crystal Palace vs Liverpool",
-          "ChannelLink":"https://www.kool.to/play/3640268356/index.m3u8",
-          "Play_In":"app"},
-          {
-          "ChannelImage":"https://hamkho.host/logo/pl.png",
-          "ChannelName":"Man City vs Fulham",
-          "ChannelLink":"https://www.kool.to/play/1665920101/index.m3u8",
-          "Play_In":"app"},
-          {
-          "ChannelImage":"https://hamkho.host/logo/pl.png",
-          "ChannelName":"Arsenal vs Southampton",
-          "ChannelLink":"https://www.kool.to/play/3271278010/index.m3u8",
-          "Play_In":"app"},
-          {
-          "ChannelImage":"https://hamkho.host/logo/pl.png",
-          "ChannelName":"Everton vs Newcastle",
+          "ChannelName":"",
           "ChannelLink":"https://www.kool.to/play/1079620770/index.m3u8",
           "Play_In":"app"}
         ]
@@ -32,18 +55,8 @@
       "CategoryChannels":[
           {
           "ChannelImage":"https://hamkho.host/logo/ll.png",
-          "ChannelName":"Real Madrid vs Villarreal",
+          "ChannelName":"",
           "ChannelLink":"https://www.kool.to/play/4254563788/index.m3u8",
-          "Play_In":"app"},
-          {
-          "ChannelImage":"https://hamkho.host/logo/ll.png",
-          "ChannelName":"Real Madrid vs Villarreal",
-          "ChannelLink":"https://www.kool.to/play/3938278699/index.m3u8",
-          "Play_In":"app"},
-          {
-          "ChannelImage":"https://hamkho.host/logo/ll.png",
-          "ChannelName":"Real Madrid vs Villarreal",
-          "ChannelLink":"https://www.kool.to/play/75819853/index.m3u8",
           "Play_In":"app"}
         ]
     },
@@ -53,8 +66,8 @@
       "CategoryChannels":[
           {
           "ChannelImage":"https://hamkho.host/logo/sa.png",
-          "ChannelName":"Internazionale vs Torino",
-          "ChannelLink":"https://www.kool.to/play/3640268356/index.m3u8",
+          "ChannelName":"",
+          "ChannelLink":"https://www.kool.to/play/2911178456/index.m3u8",
           "Play_In":"app"}
         ]
     },
@@ -64,8 +77,8 @@
       "CategoryChannels":[
           {
           "ChannelImage":"https://hamkho.host/logo/l1.jpg",
-          "ChannelName":"Rennes vs Monaco",
-          "ChannelLink":"https://www.kool.to/play/3769189460/index.m3u8",
+          "ChannelName":"",
+          "ChannelLink":"https://www.kool.to/play/3567590597/index.m3u8",
           "Play_In":"app"}
         ]
     },
@@ -75,8 +88,8 @@
       "CategoryChannels":[
           {
           "ChannelImage":"https://hamkho.host/logo/bl.png",
-          "ChannelName":"Bayer Leverkusen vs Holstein Kiel",
-          "ChannelLink":"https://www.kool.to/play/3224854795/index.m3u8",
+          "ChannelName":"",
+          "ChannelLink":"https://www.kool.to/play/1978761461/index.m3u8",
           "Play_In":"app"}
         ]
     }
